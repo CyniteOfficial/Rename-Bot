@@ -7,9 +7,9 @@
         "rename",
         "bot"
     ],
-    "repository": "https://github.com/AbirHasan2005/Rename-Bot",
-    "website": "https://abirhasan.wtf",
-    "success_url": "https://t.me/AH_RenameBot",
+    "repository": "https://github.com/CyniteOfficial/Rename-Bot",
+    "website": "https://github.com/CyniteOfficial",
+    "success_url": "https://t.me/CyniteRenameBot",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
