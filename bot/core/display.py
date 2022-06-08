@@ -1,4 +1,4 @@
-# (c) @Aadhi000
+# (c) @CyniteOfficial
 
 import math
 import time
@@ -15,7 +15,7 @@ PROGRESS = """
 💠 **𝚃𝙾𝚃𝙰𝙻 𝚂𝙸𝚉𝙴 :** `{2}`
 ⏱ **𝙴𝚂𝚃𝙸𝙼𝙰𝚃𝙴𝙳 𝚃𝙸𝙼𝙴 :** `{4}`
 """
-reply_markup = InlineKeyboardMarkup([[InlineKeyboardButton(text='✅ 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴 ✅', url='https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA')]])
+reply_markup = InlineKeyboardMarkup([[InlineKeyboardButton(text='✅ 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴 ✅', url='https://youtube.com/channel/UCiaz-J50QhtJ73XEEjP_aLQ')]])
 
 async def progress_for_pyrogram(
     current,
