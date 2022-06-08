@@ -1,4 +1,4 @@
-# (c) @Aadhi000
+# (c) @CyniteOfficial
 
 from pyrogram import types
 from bot.client import Client
