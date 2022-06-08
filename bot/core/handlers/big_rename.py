@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @CyniteOfficial
 
 import traceback
 from typing import Union
